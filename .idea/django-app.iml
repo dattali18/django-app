@@ -24,6 +24,7 @@
     <option name="TEMPLATE_FOLDERS">
       <list>
         <option value="$MODULE_DIR$/django_project/blog/templates" />
+        <option value="$MODULE_DIR$/django_project/users/templates" />
       </list>
     </option>
   </component>
